@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 Nov 2018 13:43:05 at http://vergatheme.com/html/prident/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://vergatheme.com/html/prident/ -O1 "C:\users\udhaya\My Documents\Documents\documents\project1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:46:27	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/image/logo.png (from vergatheme.com/html/prident/)
+13:48:02	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/image/2.jpg (from vergatheme.com/html/prident/)
+13:48:03	Warning: 	File not parsed, looks like binary: vergatheme.com/html/prident/fonts/glyphicons-halflings-regular.woff2
+13:48:03	Warning: 	File not parsed, looks like binary: vergatheme.com/html/prident/fonts/fontawesome-webfont.woff2?v=4.6.3
+13:48:03	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/fonts/fontawesome-webfont.svg?v=4.6.3 (from vergatheme.com/html/prident/css/font-awesome.min.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_444444_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_777777_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_555555_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_ffffff_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_777620_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/jqueryui/css/images/ui-icons_cc0000_256x240.png (from vergatheme.com/html/prident/vendors/jqueryui/css/jquery-ui.css)
+13:48:07	Warning: 	File not parsed, looks like binary: vergatheme.com/html/prident/vendors/Linearicons/fonts/Linearicons-Free.woff2?w118d
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/font/1.5.1/VideoJS.eot? (from vergatheme.com/html/prident/vendors/video/video.css)
+13:48:07	Error: 	"Not Found" (404) at link vergatheme.com/html/prident/vendors/owlcarousel/owl.video.play.png (from vergatheme.com/html/prident/vendors/owlcarousel/owl.carousel.min.css)
+13:48:07	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/image/appointment-pattern.jpg (from vergatheme.com/html/prident/css/style.css)
+13:48:09	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/image/appointment-logo.png (from vergatheme.com/html/prident/css/style.css)
+13:48:11	Warning: 	Retry after error -4 (No data (connection closed)) at link vergatheme.com/html/prident/vendors/direction-hover/js/jquery.hoverdir.js (from vergatheme.com/html/prident/services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 28 seconds : 190 links scanned, 175 files written (10452631 bytes overall) [9014691 bytes received at 27483 bytes/sec], 2202838 bytes transferred using HTTP compression in 40 files, ratio 31%, 6.5 requests per connection
+(8 errors, 9 warnings, 0 messages)
